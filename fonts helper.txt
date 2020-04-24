@@ -1,0 +1,19 @@
+.font-helvetice-light{
+  font-family: 'Helvetica Neue Light';
+}
+
+.font-helvetice-bold{
+  font-family: 'Helvetica-Neue-Bold';
+}
+
+.font-helvetice-medium{
+  font-family: 'Helvetica Neue Medium';
+}
+
+.font-gotham{
+  font-family: 'Gotham Light';
+}
+
+.font-gotham-bold{
+  font-family: 'Gotham Bold';
+}
