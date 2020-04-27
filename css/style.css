@@ -1,31 +1,39 @@
 @font-face {
   font-family: "Helvetica-Neue-Bold";
-  src: url("../fonts/HelveticaNeueBold.woff2") format("woff2"),
+  src:
+    url("../fonts/HelveticaNeueBold.woff2") format("woff2"),
     url("../fonts/HelveticaNeueBold.woff") format("woff");
 }
 
 @font-face {
   font-family: "Helvetica Neue Light";
-  src: url("../fonts/HelveticaNeueLight.woff2") format("woff2"),
+  src:
+    url("../fonts/HelveticaNeueLight.woff2") format("woff2"),
     url("../fonts/HelveticaNeueLight.woff") format("woff");
 }
 
 @font-face {
   font-family: "Helvetica Neue Medium";
-  src: url("../fonts/HelveticaNeueMedium.woff2") format("woff2"), url("../fonts/HelveticaNeueMedium.woff") format("woff");
+  src:
+    url("../fonts/HelveticaNeueMedium.woff2") format("woff2"),
+    url("../fonts/HelveticaNeueMedium.woff") format("woff");
 }
 
 @font-face {
   font-family: "Gotham Bold";
-  src: url("../fonts/Gotham-Bold.woff2") format("woff2"), url("../fonts/Gotham-Bold.woff") format("woff");
+  src:
+    url("../fonts/Gotham-Bold.woff2") format("woff2"),
+    url("../fonts/Gotham-Bold.woff") format("woff");
 }
 
 @font-face {
   font-family: "Gotham Light";
-  src: url("../fonts/GothamRounded-Light.woff2") format("woff2"), url("../fonts/GothamRounded-Light.woff") format("woff");
+  src:
+    url("../fonts/GothamRounded-Light.woff2") format("woff2"),
+    url("../fonts/GothamRounded-Light.woff") format("woff");
 }
 
-* {
+*  {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
