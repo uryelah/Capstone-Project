@@ -17,3 +17,167 @@
 .font-gotham-bold{
   font-family: 'Gotham Bold';
 }
+
+fa-user-astronaut
+
+Cartoon Characters
+
+<section class="search-result-container">
+        <div class="filter border pl-2 pt-2">
+          <h4 class="filter-name">Imported From</h4>
+          <div class="filter-box">
+            <div class="filter-1">
+              <input type="checkbox" id="china">
+              <label for="china">China</label>
+            </div>
+            <div class="filter-2">
+              <input type="checkbox" id="japan">
+              <label for="japan">Japan</label>
+            </div>
+            <div class="filter-3">
+              <input type="checkbox" id="indonesia">
+              <label for="indonesia">Indonesia</label>
+            </div>
+            <hr class="mx-4">
+            </div>
+
+            <h4 class="filter-name">Price Range</h4>
+          <div class="filter-box">
+            <div class="filter-1">
+              <input type="checkbox" id="10$-100$">
+              <label for="10$-100$">10$-100$</label>
+            </div>
+            <div class="filter-2">
+              <input type="checkbox" id="100$-300$">
+              <label for="100$-300$">100$-300$</label>
+            </div>
+            <div class="filter-3">
+              <input type="checkbox" id="301$-1000$">
+              <label for="301$-1000$">301$-1000$</label>
+            </div>
+            <hr class="mx-4">
+            </div>
+
+            <h4 class="filter-name">Age</h4>
+          <div class="filter-box">
+            <div class="filter-1">
+              <input type="checkbox" id="1year">
+              <label for="1year">1 year - 2 years</label>
+            </div>
+            <div class="filter-2">
+              <input type="checkbox" id="2year">
+              <label for="2year">2 year - 5 years</label>
+            </div>
+            <div class="filter-3">
+              <input type="checkbox" id="6year">
+              <label for="6year">6 year - 10 years</label>
+            </div>
+            <div class="filter-4">
+              <input type="checkbox" id="11year">
+              <label for="11year">11 year - 20 years</label>
+            </div>
+            <hr class="mx-4">
+            </div>
+
+            <h4 class="filter-name">Imported From</h4>
+          <div class="filter-box">
+            <div class="filter-1">
+              <input type="checkbox" id="chinese">
+              <label for="chinese">Chinese</label>
+            </div>
+            <div class="filter-2">
+              <input type="checkbox" id="japan">
+              <label for="japan">Japan</label>
+            </div>
+            <div class="filter-3">
+              <input type="checkbox" id="indonesia">
+              <label for="indonesia">Indonesia</label>
+            </div>
+          </div>
+        </div>
+        <div class="results border">
+          <div class="search-query p-2">
+            <p class="search-query-paragraph">
+              About 50 search results for "Dolls" (0.62 seconds) 
+            </p>
+          </div>
+          <div class="search-products p-2">
+            <div class="image"><a href="#"><img class="img w-100" src="images/dolls-1.jpg" alt="#"></a></div>
+            <div class="text">
+              <a href="#" class="h2 product-name">Barbie Doll</a>
+              <h5 class="my-4 imported">Imported from Indonesia</h5>
+              <p> Doll is a model of a human, often used as a toy for children, and an artistic hobby for adults.
+                 Dolls have also been used in traditional religious rituals throughout the world. 
+                 They have been made as crude, rudimentary playthings as well as elaborate art. </p>
+              <div class="cart-box d-flex justify-content-between align-items-center">
+                <h4 class="price">35$</h4>
+                <button class="nav-button font-weight-bold" type="submit"><span> <i class="fa fa-shopping-cart text-white nav-icons" ></i></span> Add To Cart</button>
+              </div>
+            </div>
+          </div>
+          <hr class="mx-4">
+
+          <div class="search-products p-2">
+            <div class="image"><a href="#"><img class="img w-100" src="images/dolls-1.jpg" alt="#"></a></div>
+            <div class="text">
+              <a href="#" class="h2 product-name">Barbie Doll</a>
+              <h5 class="my-4 imported">Imported from Indonesia</h5>
+              <p> Doll is a model of a human, often used as a toy for children, and an artistic hobby for adults.
+                 Dolls have also been used in traditional religious rituals throughout the world. 
+                 They have been made as crude, rudimentary playthings as well as elaborate art. </p>
+              <div class="cart-box d-flex justify-content-between align-items-center">
+                <h4 class="price">35$</h4>
+                <button class="nav-button font-weight-bold" type="submit"><span> <i class="fa fa-shopping-cart text-white nav-icons" ></i></span> Add To Cart</button>
+              </div>
+            </div>
+          </div>
+          <hr class="mx-4">
+
+          <div class="search-products p-2">
+            <div class="image"><a href="#"><img class="img w-100" src="images/dolls-1.jpg" alt="#"></a></div>
+            <div class="text">
+              <a href="#" class="h2 product-name">Barbie Doll</a>
+              <h5 class="my-4 imported">Imported from Indonesia</h5>
+              <p> Doll is a model of a human, often used as a toy for children, and an artistic hobby for adults.
+                 Dolls have also been used in traditional religious rituals throughout the world. 
+                 They have been made as crude, rudimentary playthings as well as elaborate art. </p>
+              <div class="cart-box d-flex justify-content-between align-items-center">
+                <h4 class="price">35$</h4>
+                <button class="nav-button font-weight-bold" type="submit"><span> <i class="fa fa-shopping-cart text-white nav-icons" ></i></span> Add To Cart</button>
+              </div>
+            </div>
+          </div>
+          <hr class="mx-4">
+
+          <div class="search-products p-2">
+            <div class="image"><a href="#"><img class="img w-100" src="images/dolls-1.jpg" alt="#"></a></div>
+            <div class="text">
+              <a href="#" class="h2 product-name">Barbie Doll</a>
+              <h5 class="my-4 imported">Imported from Indonesia</h5>
+              <p> Doll is a model of a human, often used as a toy for children, and an artistic hobby for adults.
+                 Dolls have also been used in traditional religious rituals throughout the world. 
+                 They have been made as crude, rudimentary playthings as well as elaborate art. </p>
+              <div class="cart-box d-flex justify-content-between align-items-center">
+                <h4 class="price">35$</h4>
+                <button class="nav-button font-weight-bold" type="submit"><span> <i class="fa fa-shopping-cart text-white nav-icons" ></i></span> Add To Cart</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="pagination d-flex justify-content-center align-items-center">
+            <i class="fa fa-angle-double-left"></i>
+            <p class="pagination-text">1</p>
+            <p class="pagination-text">2</p>
+            <p class="pagination-text">3</p>
+            <p class="pagination-text">4</p>
+            <p class="pagination-text">5</p>
+            <p class="pagination-text">6</p>
+            <p class="pagination-text">7</p>
+            <p class="pagination-text">8</p>
+            <p class="pagination-text">9</p>
+            <p class="pagination-text">10</p>
+            <i class="fa fa-angle-double-right"></i>
+          </div>
+        </div>
+        
+      </section>
