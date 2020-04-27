@@ -178,9 +178,7 @@ header{
 }
 
 .slider-container{
-  display: block;
-  margin: 0 auto;
-  max-width: 1200px;
+  display: none;
 }
 
 .slider-image{
@@ -414,6 +412,12 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .slider-container{
+    display: block;
+    margin: 0 auto;
+    max-width: 1200px;
   }
 
   .fa-angle-left,
