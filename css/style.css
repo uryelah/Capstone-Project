@@ -38,7 +38,7 @@
   font-family: 'Helvetica Neue Light';
 }
 
-.Condition , footer ,.price,
+.condition , footer ,.price,
 .product-name{
   font-family: 'Helvetica-Neue-Bold';
 }
@@ -142,10 +142,10 @@ header{
 
 .categories{
   position:absolute;
-  border: 1px solid black;
   width: 150px;
   margin-top: 2px;
   display: none;
+  z-index: 10;
 }
 
 .category-ul{
@@ -221,7 +221,7 @@ header{
   color: rgb(119, 44, 56);
 }
 
-.Condition{
+.condition{
   color: #888;
   font-size: 14px;
 }
