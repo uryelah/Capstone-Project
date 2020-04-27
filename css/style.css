@@ -45,14 +45,14 @@
 .footer-li-link,
 .footer-nav-p,
 .slider-desc {
-  font-family: "Helvetica Neue Light";
+  font-family: "Helvetica Neue Light",Arial, Helvetica, sans-serif;
 }
 
 .condition,
 footer,
 .price,
 .product-name {
-  font-family: "Helvetica-Neue-Bold";
+  font-family: "Helvetica-Neue-Bold",Arial, Helvetica, sans-serif;
 }
 
 .category-name,
@@ -60,12 +60,12 @@ footer,
 .categories-button,
 .filter-name,
 .slider-header {
-  font-family: "Gotham Bold";
+  font-family: "Gotham Bold",Arial, Helvetica, sans-serif;
 }
 
 .product-title,
 .imported {
-  font-family: "Helvetica Neue Medium";
+  font-family: "Helvetica Neue Medium",Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -397,7 +397,7 @@ footer {
   margin: 20px auto;
   width: 80%;
   color: #d35266;
-  font-family: "Gotham Light";
+  font-family: "Gotham Light",Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
@@ -492,5 +492,4 @@ footer {
   .footer-navigation {
     grid-template-columns: repeat(4, 1fr);
   }
-
 }
