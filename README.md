@@ -21,7 +21,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/MFahadUmer/Capstone-Project/a482c552f9de7fbdaff68452cb1bd83954a4ac0f/index.html)
 
 
 ## Getting Started
