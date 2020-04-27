@@ -12,20 +12,17 @@
 
 @font-face {
   font-family: "Helvetica Neue Medium";
-  src: url("../fonts/HelveticaNeueMedium.woff2") format("woff2"),
-    url("../fonts/HelveticaNeueMedium.woff") format("woff");
+  src: url("../fonts/HelveticaNeueMedium.woff2") format("woff2"), url("../fonts/HelveticaNeueMedium.woff") format("woff");
 }
 
 @font-face {
   font-family: "Gotham Bold";
-  src: url("../fonts/Gotham-Bold.woff2") format("woff2"),
-    url("../fonts/Gotham-Bold.woff") format("woff");
+  src: url("../fonts/Gotham-Bold.woff2") format("woff2"), url("../fonts/Gotham-Bold.woff") format("woff");
 }
 
 @font-face {
   font-family: "Gotham Light";
-  src: url("../fonts/GothamRounded-Light.woff2") format("woff2"),
-    url("../fonts/GothamRounded-Light.woff") format("woff");
+  src: url("../fonts/GothamRounded-Light.woff2") format("woff2"), url("../fonts/GothamRounded-Light.woff") format("woff");
 }
 
 * {
@@ -34,32 +31,19 @@
   box-sizing: border-box;
 }
 
-.links,
-.card-text,
-.pagination-text,
-.footer-li-link,
-.footer-nav-p,
-.slider-desc {
+.links, .card-text, .pagination-text, .footer-li-link, .footer-nav-p, .slider-desc {
   font-family: "Helvetica Neue Light";
 }
 
-.condition,
-footer,
-.price,
-.product-name {
+.condition, footer, .price, .product-name {
   font-family: "Helvetica-Neue-Bold";
 }
 
-.category-name,
-.search-query-paragraph,
-.categories-button,
-.filter-name,
-.slider-header {
+.category-name, .search-query-paragraph, .categories-button, .filter-name, .slider-header {
   font-family: "Gotham Bold";
 }
 
-.product-title,
-.imported {
+.product-title, .imported {
   font-family: "Helvetica Neue Medium";
 }
 
@@ -423,6 +407,7 @@ footer {
     column-gap: 0.5rem;
     padding: 0 20px;
   }
+
   .products-sidebar {
     display: flex;
     justify-content: center;
@@ -479,7 +464,9 @@ footer {
   .filter-name {
     color: #383838;
   }
+
   .footer-navigation {
     grid-template-columns: repeat(4, 1fr);
   }
+
 }
