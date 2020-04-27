@@ -33,25 +33,38 @@
     url("../fonts/GothamRounded-Light.woff") format("woff");
 }
 
-*  {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-.links, .card-text, .pagination-text, .footer-li-link, .footer-nav-p, .slider-desc {
+.links,
+.card-text,
+.pagination-text,
+.footer-li-link,
+.footer-nav-p,
+.slider-desc {
   font-family: "Helvetica Neue Light";
 }
 
-.condition, footer, .price, .product-name {
+.condition,
+footer,
+.price,
+.product-name {
   font-family: "Helvetica-Neue-Bold";
 }
 
-.category-name, .search-query-paragraph, .categories-button, .filter-name, .slider-header {
+.category-name,
+.search-query-paragraph,
+.categories-button,
+.filter-name,
+.slider-header {
   font-family: "Gotham Bold";
 }
 
-.product-title, .imported {
+.product-title,
+.imported {
   font-family: "Helvetica Neue Medium";
 }
 
@@ -136,20 +149,20 @@ header {
   border: rgb(9, 216, 231) 4px solid;
 }
 
-.categories-button {
-  display: none;
-}
-
-.categories-button:hover .categories {
-  display: block;
-}
-
 .categories {
   position: absolute;
   width: 150px;
   margin-top: 2px;
   display: none;
   z-index: 10;
+}
+
+.categories-button {
+  display: none;
+}
+
+.categories-button:hover .categories {
+  display: block;
 }
 
 .category-ul {
